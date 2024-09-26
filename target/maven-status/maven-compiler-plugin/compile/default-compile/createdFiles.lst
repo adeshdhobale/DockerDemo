@@ -1,0 +1,2 @@
+com\docker\FristDocker\App.class
+com\docker\FristDocker\RestControllers\WlcomeRestController.class
